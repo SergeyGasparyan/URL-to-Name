@@ -3,7 +3,7 @@
 A little script that extracts the company name from the given URL.
 ## Usage
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
 ## Installation
 
